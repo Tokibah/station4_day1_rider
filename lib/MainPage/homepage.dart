@@ -86,11 +86,11 @@ class _HomepageState extends State<Homepage> {
 
                             getUserData();
                           },
-                          child: const Icon(Icons.add)),
+                          child: const Icon(Icons.add, color: Colors.white)),
                     ),
                     Spacer(),
                     SizedBox(
-                        height: 490.h,
+                        height: 475.h,
                         width: 370.w,
                         child: rideList.isEmpty
                             ? const Center(child: Text('No ride available'))

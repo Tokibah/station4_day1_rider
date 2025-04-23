@@ -87,7 +87,7 @@ class _LaunchScreenState extends State<LaunchScreen> {
               SizedBox(
                 width: 150.w,
                 child: Text(
-                  'KONSI KERETA DRIVER',
+                  'KONGSI KERETA DRIVER',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                       fontSize: 30.r,
